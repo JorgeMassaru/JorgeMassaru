@@ -45,8 +45,8 @@ Desenvolvedor em construção — explorando o ecossistema de tecnologia com cur
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=JorgeMassaru&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMassaru&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <br>
@@ -63,5 +63,5 @@ Desenvolvedor em construção — explorando o ecossistema de tecnologia com cur
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=grey&style=flat&label=visitas+ao+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=JorgeMassaru&color=grey&style=flat&label=visitas+ao+perfil" />
 </p>
