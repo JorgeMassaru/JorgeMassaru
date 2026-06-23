@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Jorge Massaru 👋
 
 Desenvolvedor em construção — explorando o ecossistema de tecnologia com curiosidade e consistência. Gosto de entender as camadas por trás das coisas: do design à infraestrutura.
 
