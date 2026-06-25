@@ -65,16 +65,6 @@ Desenvolvedor de Software Multiplataforma com experiência em UI/UX Design e des
 
 ## 🎓 Laboratório de Práticas — FATEC DSM
 
-### Evolução na equipe
-
-```text
-LP 24/2 → Designer de Referência
-     ↓
-LP 25/1 → Designer do CMS
-     ↓
-LP 25/2 → Líder de Design
-```
-
 Participei de três edições do Laboratório de Práticas, atuando na construção de produtos digitais e evoluindo de designer de referência para líder de design.
 
 ---
